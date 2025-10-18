@@ -71,6 +71,6 @@ Tabs.Main2:AddButton({
 			JoinTeam = "Pirates";   -- 👈 team mặc định: Pirates hoặc Marines
 			Translator = true;      -- 👈 bật dịch sang tiếng Việt nếu có
 		}
-		 loadstring(game:HttpGet("https://raw.githubusercontent.com/teoscrvn/T-ng-h-p-/refs/heads/main/teovip.txt", true))() -- 👈 link script tải
+		 loadstring(game:HttpGet("https://raw.githubusercontent.com/newbie0z-lol/preprt/refs/heads/main/preprt.lua"))() -- 👈 link script tải
 	end
 })
